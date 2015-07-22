@@ -1,2 +1,7 @@
 # MARC_code
-My github to store random bits of code for MARC
+
+R code to link positions 2D sequence to template and complement events
+
+Needs:
+1) testing
+2) cleaning
